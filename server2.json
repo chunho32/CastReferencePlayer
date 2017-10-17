@@ -1,0 +1,7 @@
+
+{
+  "server_url" : "http://13.90.207.140:9696/api",
+  "in_review" : false,
+  "is_active" : true,
+  "promote_package" : ""
+}

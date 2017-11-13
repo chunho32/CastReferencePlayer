@@ -1,5 +1,5 @@
 {
-  "server_url" : "http://13.90.207.140:5656/api",
+  "server_url" : "http://52.170.213.18:3001",
   "in_review" : false,
   "is_active" : true,
   "promote_package" : ""

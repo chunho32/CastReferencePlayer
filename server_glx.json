@@ -2,5 +2,5 @@
   "server_url" : "http://35.198.246.6:3001",
   "in_review" : false,
   "is_active" : true,
-  "promote_package" : ""
+  "promote_package" : " "
 }

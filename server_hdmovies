@@ -1,6 +1,6 @@
 
 {
-  "server_url" : "http://amvhuva3923.cloudapp.net:5656/api",
+  "server_url" : "http://104.154.199.96:3001/api",
   "in_review" : false,
   "is_active" : true,
   "promote_package" : ""
